@@ -24,3 +24,10 @@ This code demonstrates the core interplay between HTML (structure), CSS (style),
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/38a92662-f64a-4683-a003-2bb8bcd01c06)
+
+![Image](https://github.com/user-attachments/assets/ff66602c-89f6-4fa7-993b-a931a8a576d3)
+
+![Image](https://github.com/user-attachments/assets/c336a491-18f1-477e-bfae-10f551cec031)
+
+![Image](https://github.com/user-attachments/assets/d38c0093-7aec-497e-8cd6-1d12df0984be)
