@@ -1,6 +1,6 @@
 # A Glimpse of Paris
 
-"COMPANY": APEXPLANETAdd commentMore actions
+"COMPANY": APEXPLANET
 
 "NAME": BADA SAMYADEVI
 
